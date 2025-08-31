@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: Apache-2.0
  */
-
+/*自测*/
 #include "rtthread.h"
 #include "bf0_hal.h"
 #include "drv_io.h"
